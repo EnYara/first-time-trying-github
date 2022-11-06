@@ -15,6 +15,6 @@ jobs:
     - name: 'Testing Github action'
       run: pwd
 
-      - name: 'Testing printing'
+      - name: 'printing flder content'
       run: echo yara
 
